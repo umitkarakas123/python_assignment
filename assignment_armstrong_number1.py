@@ -13,3 +13,5 @@ elif int(number) > 0 :
         print(f"The number {number} is an Armstrong number")
     else:
         print(f"The number {number} is not an Armstrong number")
+
+        #armstron number
